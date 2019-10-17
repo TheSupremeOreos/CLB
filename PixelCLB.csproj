@@ -1,0 +1,522 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{221B8C93-831C-4012-8D2C-5EA5034FD289}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>PixelCLB</RootNamespace>
+    <AssemblyName>PixelCLB</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <TargetFrameworkProfile>
+    </TargetFrameworkProfile>
+    <IsWebBootstrapper>true</IsWebBootstrapper>
+    <PublishUrl>http://richieclb.pixelcha.com/clb/files/</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Web</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <CreateWebPageOnPublish>true</CreateWebPageOnPublish>
+    <WebPage>publish.htm</WebPage>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <PublishWizardCompleted>true</PublishWizardCompleted>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <PlatformTarget>x86</PlatformTarget>
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>
+    </DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>0</WarningLevel>
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+    <Prefer32Bit>false</Prefer32Bit>
+    <UseVSHostingProcess>false</UseVSHostingProcess>
+    <GenerateSerializationAssemblies>Off</GenerateSerializationAssemblies>
+    <CodeAnalysisIgnoreGeneratedCode>false</CodeAnalysisIgnoreGeneratedCode>
+    <TreatWarningsAsErrors>false</TreatWarningsAsErrors>
+  </PropertyGroup>
+  <PropertyGroup>
+    <StartupObject>PixelCLB.Program</StartupObject>
+  </PropertyGroup>
+  <PropertyGroup />
+  <PropertyGroup>
+    <ApplicationIcon>icon.ico</ApplicationIcon>
+  </PropertyGroup>
+  <PropertyGroup />
+  <PropertyGroup>
+    <ManifestCertificateThumbprint>EF0424CE310AC421CD55EDFA9FB5C46CA450A71D</ManifestCertificateThumbprint>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestKeyFile>RichieCLB_TemporaryKey.pfx</ManifestKeyFile>
+  </PropertyGroup>
+  <PropertyGroup>
+    <GenerateManifests>false</GenerateManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignManifests>false</SignManifests>
+  </PropertyGroup>
+  <PropertyGroup />
+  <PropertyGroup>
+    <TargetZone>LocalIntranet</TargetZone>
+  </PropertyGroup>
+  <PropertyGroup />
+  <PropertyGroup />
+  <ItemGroup>
+    <Reference Include="NAudio">
+      <HintPath>.\NAudio.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.DirectoryServices" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Management" />
+    <Reference Include="System.Net" />
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="MapleLib\Helpers\ErrorLogger.cs" />
+    <Compile Include="MapleLib\MapleCryptoLib\AESEncryption.cs" />
+    <Compile Include="MapleLib\MapleCryptoLib\CryptoConstants.cs" />
+    <Compile Include="MapleLib\MapleCryptoLib\MapleCrypto.cs" />
+    <Compile Include="MapleLib\MapleCryptoLib\MapleCustomEncryption.cs" />
+    <Compile Include="MapleLib\PacketLib\AbstractPacket.cs" />
+    <Compile Include="MapleLib\PacketLib\Acceptor.cs" />
+    <Compile Include="MapleLib\PacketLib\Connector.cs" />
+    <Compile Include="MapleLib\PacketLib\HexEncoding.cs" />
+    <Compile Include="MapleLib\PacketLib\Monitor.cs" />
+    <Compile Include="MapleLib\PacketLib\PacketReader.cs" />
+    <Compile Include="MapleLib\PacketLib\PacketWriter.cs" />
+    <Compile Include="MapleLib\PacketLib\Session.cs" />
+    <Compile Include="MapleLib\PacketLib\SessionType.cs" />
+    <Compile Include="MapleLib\PacketLib\SocketInfo.cs" />
+    <Compile Include="MapleLib\WzLib\IPropertyContainer.cs" />
+    <Compile Include="MapleLib\WzLib\Util\WzBinaryReader.cs" />
+    <Compile Include="MapleLib\WzLib\Util\WzBinaryWriter.cs" />
+    <Compile Include="MapleLib\WzLib\Util\WzKeyGenerator.cs" />
+    <Compile Include="MapleLib\WzLib\Util\WzTool.cs" />
+    <Compile Include="MapleLib\WzLib\Util\XmlUtil.cs" />
+    <Compile Include="MapleLib\WzLib\WzDirectory.cs" />
+    <Compile Include="MapleLib\WzLib\WzExtended.cs" />
+    <Compile Include="MapleLib\WzLib\WzFile.cs" />
+    <Compile Include="MapleLib\WzLib\WzHeader.cs" />
+    <Compile Include="MapleLib\WzLib\WzImage.cs" />
+    <Compile Include="MapleLib\WzLib\WzImageProperty.cs" />
+    <Compile Include="MapleLib\WzLib\WzImageResource.cs" />
+    <Compile Include="MapleLib\WzLib\WzListFile.cs" />
+    <Compile Include="MapleLib\WzLib\WzMapleVersion.cs" />
+    <Compile Include="MapleLib\WzLib\WzObject.cs" />
+    <Compile Include="MapleLib\WzLib\WzObjectType.cs" />
+    <Compile Include="MapleLib\WzLib\WzProperties\WzCanvasProperty.cs" />
+    <Compile Include="MapleLib\WzLib\WzProperties\WzConvexProperty.cs" />
+    <Compile Include="MapleLib\WzLib\WzProperties\WzDoubleProperty.cs" />
+    <Compile Include="MapleLib\WzLib\WzProperties\WzFloatProperty.cs" />
+    <Compile Include="MapleLib\WzLib\WzProperties\WzIntProperty.cs" />
+    <Compile Include="MapleLib\WzLib\WzProperties\WzLongProperty.cs" />
+    <Compile Include="MapleLib\WzLib\WzProperties\WzNullProperty.cs" />
+    <Compile Include="MapleLib\WzLib\WzProperties\WzPngProperty.cs" />
+    <Compile Include="MapleLib\WzLib\WzProperties\WzShortProperty.cs" />
+    <Compile Include="MapleLib\WzLib\WzProperties\WzSoundProperty.cs" />
+    <Compile Include="MapleLib\WzLib\WzProperties\WzStringProperty.cs" />
+    <Compile Include="MapleLib\WzLib\WzProperties\WzSubProperty.cs" />
+    <Compile Include="MapleLib\WzLib\WzProperties\WzUOLProperty.cs" />
+    <Compile Include="MapleLib\WzLib\WzProperties\WzVectorProperty.cs" />
+    <Compile Include="MapleLib\WzLib\WzPropertyType.cs" />
+    <Compile Include="MapleLib\WzLib\WzSerializer.cs" />
+    <Compile Include="MapleLib\WzLib\WzSettings.cs" />
+    <Compile Include="MapleLib\WzLib\WzStructure\Data\Data.cs" />
+    <Compile Include="MapleLib\WzLib\WzStructure\Data\Enums.cs" />
+    <Compile Include="MapleLib\WzLib\WzStructure\Foothold.cs" />
+    <Compile Include="MapleLib\WzLib\WzStructure\InfoTool.cs" />
+    <Compile Include="MapleLib\WzLib\WzStructure\MapInfo.cs" />
+    <Compile Include="MapleLib\WzLib\WzStructure\MapleBool.cs" />
+    <Compile Include="Packets\CRC\CRC32.cs" />
+    <Compile Include="Packets\Handlers\InGame\Events\HotTimeRewardEvent.cs" />
+    <Compile Include="Packets\Handlers\InGame\Cassandra.cs" />
+    <Compile Include="Packets\Handlers\InGame\NPC\NPCShopResponse.cs" />
+    <Compile Include="Packets\Handlers\InGame\NPC\NPCChat.cs" />
+    <Compile Include="Packets\Handlers\InGame\Players-Chats-Stats\ItemReceivedFromNPC.cs" />
+    <Compile Include="Packets\Handlers\InGame\Stores\PermitRemoved.cs" />
+    <Compile Include="Packets\Handlers\InGame\Stores\StoreReponse.cs" />
+    <Compile Include="Packets\Handlers\InGame\Stores\StoreClickedReponse.cs" />
+    <Compile Include="Packets\Handlers\InGame\Stores\StoreRemoved2.cs" />
+    <Compile Include="Packets\Handlers\InGame\Stores\StoreRemoved.cs" />
+    <Compile Include="Packets\Handlers\InGame\Stores\StoreSpawned.cs" />
+    <Compile Include="Packets\Handlers\InGame\Players-Chats-Stats\InventoryUpdate.cs" />
+    <Compile Include="Packets\Handlers\InGame\Players-Chats-Stats\GuildBLAliChat.cs" />
+    <Compile Include="Packets\Handlers\InGame\Players-Chats-Stats\AllChat.cs" />
+    <Compile Include="Packets\Handlers\InGame\Players-Chats-Stats\StatsUpdate.cs" />
+    <Compile Include="Packets\Handlers\InGame\Players-Chats-Stats\Whispered.cs" />
+    <Compile Include="Packets\Handlers\InGame\Players-Chats-Stats\GuildReponse.cs" />
+    <Compile Include="Packets\Handlers\InGame\Drops\ItemDropped.cs" />
+    <Compile Include="Packets\Handlers\Server\Pong.cs" />
+    <Compile Include="Packets\Handlers\InGame\Players-Chats-Stats\PlayerRemove.cs" />
+    <Compile Include="Packets\Handlers\InGame\Players-Chats-Stats\PlayerMoved.cs" />
+    <Compile Include="Packets\Handlers\InGame\Server\CashChannelIP.cs" />
+    <Compile Include="Packets\Handlers\InGame\Server\CashShopReponse.cs" />
+    <Compile Include="Packets\Handlers\InGame\Players-Chats-Stats\PlayerSpawned.cs" />
+    <Compile Include="Packets\Handlers\InGame\Server\MonsterFarmReponse.cs" />
+    <Compile Include="Packets\Handlers\InGame\Server\ServerReponseLogin.cs" />
+    <Compile Include="Packets\Handlers\Login\CharacterLoadout.cs" />
+    <Compile Include="Packets\Handlers\Login\ChannelIP.cs" />
+    <Compile Include="Packets\Handlers\Login\CharacterCreated.cs" />
+    <Compile Include="Packets\Handlers\Login\IGNCheck.cs" />
+    <Compile Include="Packets\Handlers\Login\IncorrectPIC.cs" />
+    <Compile Include="Packets\Handlers\Login\LoginReponse.cs" />
+    <Compile Include="Packets\PacketReceiver.cs" />
+    <Compile Include="PixelCLB\Client\MSItems.cs" />
+    <Compile Include="PixelCLB\Client\Processes\Connections.cs" />
+    <Compile Include="PixelCLB\Client\Processes\PlayerMethods.cs" />
+    <Compile Include="PixelCLB\Client\Processes\Timeout.cs" />
+    <Compile Include="PixelCLB\Client\Processes\Main.cs" />
+    <Compile Include="PixelCLB\Client\Processes\StoreMethods.cs" />
+    <Compile Include="PixelCLB\Client\World.cs" />
+    <Compile Include="PixelCLB\Client\ItemStrings.cs" />
+    <Compile Include="PixelCLB\Client\PotentialLines.cs" />
+    <Compile Include="PixelCLB\Forms\CrashOptions.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PixelCLB\Forms\CrashOptions.Designer.cs">
+      <DependentUpon>CrashOptions.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PixelCLB\Forms\FMRoomChange.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PixelCLB\Forms\FMRoomChange.Designer.cs">
+      <DependentUpon>FMRoomChange.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PixelCLB\ProfileOrganizer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PixelCLB\ProfileOrganizer.Designer.cs">
+      <DependentUpon>ProfileOrganizer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PixelCLB\Forms\AllProfiles.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PixelCLB\Forms\AllProfiles.Designer.cs">
+      <DependentUpon>AllProfiles.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PixelCLB\Updater.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PixelCLB\Updater.Designer.cs">
+      <DependentUpon>Updater.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PixelCLB\StoreAFKer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PixelCLB\StoreAFKer.Designer.cs">
+      <DependentUpon>StoreAFKer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PixelCLB\Forms\AutoChat.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PixelCLB\Forms\AutoChat.Designer.cs">
+      <DependentUpon>AutoChat.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PixelCLB\Client\Computations.cs" />
+    <Compile Include="PixelCLB\Client\Inventory.cs" />
+    <Compile Include="PixelCLB\Client\InventoryType.cs" />
+    <Compile Include="PixelCLB\Client\NPCShop.cs" />
+    <Compile Include="PixelCLB\Forms\AutoBuff.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PixelCLB\Forms\AutoBuff.Designer.cs">
+      <DependentUpon>AutoBuff.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PixelCLB\Settings.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PixelCLB\Settings.Designer.cs">
+      <DependentUpon>Settings.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PixelCLB\DefaultForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PixelCLB\DefaultForm.Designer.cs">
+      <DependentUpon>DefaultForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Net\Events\ValueChangedEventArgs.cs" />
+    <Compile Include="Packets\MovementType.cs" />
+    <Compile Include="CLBTools\Constant.cs" />
+    <Compile Include="CLBTools\Me.cs" />
+    <Compile Include="PixelCLB\Client\Player.cs" />
+    <Compile Include="PixelCLB\CharacterInfo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PixelCLB\CharacterInfo.Designer.cs">
+      <DependentUpon>CharacterInfo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PixelCLB\CLB Helper\HWIDVerify.cs" />
+    <Compile Include="PixelCLB\Client\MapleFMShopCollection.cs" />
+    <Compile Include="PixelCLB\Client\MapleFMShops.cs" />
+    <Compile Include="PixelCLB\Forms\FMExportList.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PixelCLB\Forms\FMExportList.Designer.cs">
+      <DependentUpon>FMExportList.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PixelCLB\Forms\MiniMap.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PixelCLB\Forms\MiniMap.Designer.cs">
+      <DependentUpon>MiniMap.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PixelCLB\CLB Helper\ModeDetermine.cs" />
+    <Compile Include="PixelCLB\Client\Constants.cs" />
+    <Compile Include="PixelCLB\Client\Database.cs" />
+    <Compile Include="PixelCLB\Client\Foothold.cs" />
+    <Compile Include="PixelCLB\Client\FootholdTree.cs" />
+    <Compile Include="PixelCLB\CLB Helper\HackShield.cs" />
+    <Compile Include="PixelCLB\Client\LoadedLife.cs" />
+    <Compile Include="PixelCLB\Client\MapleEquip.cs" />
+    <Compile Include="PixelCLB\Client\MapleItem.cs" />
+    <Compile Include="PixelCLB\Client\MapleMap.cs" />
+    <Compile Include="PixelCLB\Client\MiniMapInfo.cs" />
+    <Compile Include="PixelCLB\Client\Monster.cs" />
+    <Compile Include="PixelCLB\Client\MonsterStats.cs" />
+    <Compile Include="PixelCLB\Client\NPC.cs" />
+    <Compile Include="PixelCLB\Client\Utilities.cs" />
+    <Compile Include="PixelCLB\Forms\EndedBots.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PixelCLB\Forms\EndedBots.Designer.cs">
+      <DependentUpon>EndedBots.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="PixelCLB\Client\ClientMode.cs" />
+    <Compile Include="PixelCLB\Client\Harvest.cs" />
+    <Compile Include="PixelCLB\Client\HarvestType.cs" />
+    <Compile Include="PixelCLB\Client\Portal.cs" />
+    <Compile Include="PixelCLB\Client\Processes\Processes.cs" />
+    <Compile Include="PixelCLB\Forms\ModeSelector.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PixelCLB\Forms\ModeSelector.Designer.cs">
+      <DependentUpon>ModeSelector.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PixelCLB\Forms\ProxySettings.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PixelCLB\Forms\ProxySettings.Designer.cs">
+      <DependentUpon>ProxySettings.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PixelCLB\PixelCLB.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PixelCLB\PixelCLB.Designer.cs">
+      <DependentUpon>PixelCLB.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PixelCLB\Forms\Whitelist.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PixelCLB\Forms\Whitelist.Designer.cs">
+      <DependentUpon>Whitelist.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PixelCLB\IniFile.cs" />
+    <Compile Include="Net\Packets\HexEncoding.cs" />
+    <Compile Include="Packets\Handler.cs" />
+    <Compile Include="Packets\PacketRecv.cs" />
+    <Compile Include="Packets\PacketHandler.cs" />
+    <Compile Include="Packets\OpCodes.cs" />
+    <Compile Include="PixelCLB\Forms\Profiles.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PixelCLB\Forms\Profiles.Designer.cs">
+      <DependentUpon>Profiles.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PixelCLB\Program.cs" />
+    <Compile Include="PixelCLB\Client\Processes\Client.cs" />
+    <Compile Include="PixelCLB\GMSKeys.cs" />
+    <Compile Include="Crypto\CryptoKeys.cs" />
+    <Compile Include="Crypto\MapleCustom.cs" />
+    <Compile Include="Crypto\MapleCrypt.cs" />
+    <Compile Include="Net\Connector.cs" />
+    <Compile Include="Net\Events\ConnectedEventArgs.cs" />
+    <Compile Include="Net\Events\DisconnectedEventArgs.cs" />
+    <Compile Include="Net\Events\DisconnectType.cs" />
+    <Compile Include="Net\Events\HandshakeEventArgs.cs" />
+    <Compile Include="Net\Events\PacketEventArgs.cs" />
+    <Compile Include="Net\Packets\AbstractPacket.cs" />
+    <Compile Include="Net\Packets\PacketBuilder.cs" />
+    <Compile Include="Net\Packets\PacketReader.cs" />
+    <Compile Include="Net\RecBuffer.cs" />
+    <Compile Include="Net\Session.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="System\Extension.cs" />
+    <Compile Include="System\Logger.cs" />
+    <Compile Include="Tools\BitTools.cs" />
+    <Compile Include="Tools\Extensions.cs" />
+    <Compile Include="Tools\FingerPrint.cs" />
+    <Compile Include="Tools\HexTools.cs" />
+    <Compile Include="Tools\MessageBoxEx.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="app.config" />
+    <None Include="Properties\app.manifest" />
+    <None Include="RichieCLB_TemporaryKey.pfx" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PixelCLB\Forms\CrashOptions.resx">
+      <DependentUpon>CrashOptions.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PixelCLB\Forms\FMRoomChange.resx">
+      <DependentUpon>FMRoomChange.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PixelCLB\Forms\AllProfiles.resx">
+      <DependentUpon>AllProfiles.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PixelCLB\Forms\AutoBuff.resx">
+      <DependentUpon>AutoBuff.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PixelCLB\Forms\AutoChat.resx">
+      <DependentUpon>AutoChat.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PixelCLB\CharacterInfo.resx">
+      <DependentUpon>CharacterInfo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PixelCLB\Forms\FMExportList.resx">
+      <DependentUpon>FMExportList.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PixelCLB\Forms\MiniMap.resx">
+      <DependentUpon>MiniMap.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PixelCLB\Forms\EndedBots.resx">
+      <DependentUpon>EndedBots.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PixelCLB\Forms\ModeSelector.resx">
+      <DependentUpon>ModeSelector.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PixelCLB\Forms\ProxySettings.resx">
+      <DependentUpon>ProxySettings.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PixelCLB\ProfileOrganizer.resx">
+      <DependentUpon>ProfileOrganizer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PixelCLB\PixelCLB.resx">
+      <DependentUpon>PixelCLB.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PixelCLB\Forms\Whitelist.resx">
+      <DependentUpon>Whitelist.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PixelCLB\Forms\Profiles.resx">
+      <DependentUpon>Profiles.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PixelCLB\Settings.resx">
+      <DependentUpon>Settings.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PixelCLB\StoreAFKer.resx">
+      <DependentUpon>StoreAFKer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PixelCLB\Updater.resx">
+      <DependentUpon>Updater.cs</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Delete16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Gear16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Loading16.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Plus16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Stop16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Tick16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.5">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.5 %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="icon.ico" />
+    <None Include="Resources\ignGuildShort.png" />
+    <None Include="Resources\ignGuild.png" />
+    <None Include="Resources\stats.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="PixelCLB\CLB Type\" />
+    <Folder Include="XMLs\" />
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Service References\" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="FTP\ftplib.csproj">
+      <Project>{2cae517d-69f1-4228-837a-5f14eb3557c3}</Project>
+      <Name>ftplib</Name>
+    </ProjectReference>
+    <ProjectReference Include="LoginAuth\MaplePacketLib.csproj">
+      <Project>{8adbb19a-5b94-4869-9f28-5cda64379d19}</Project>
+      <Name>MaplePacketLib</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
