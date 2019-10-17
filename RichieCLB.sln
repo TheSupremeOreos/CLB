@@ -1,0 +1,71 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PixelCLB", "PixelCLB.csproj", "{221B8C93-831C-4012-8D2C-5EA5034FD289}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaplePacketLib", "LoginAuth\MaplePacketLib.csproj", "{8ADBB19A-5B94-4869-9F28-5CDA64379D19}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ftplib", "FTP\ftplib.csproj", "{2CAE517D-69F1-4228-837A-5F14EB3557C3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|Itanium = Debug|Itanium
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|Itanium = Release|Itanium
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{221B8C93-831C-4012-8D2C-5EA5034FD289}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{221B8C93-831C-4012-8D2C-5EA5034FD289}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{221B8C93-831C-4012-8D2C-5EA5034FD289}.Debug|Itanium.ActiveCfg = Debug|Any CPU
+		{221B8C93-831C-4012-8D2C-5EA5034FD289}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{221B8C93-831C-4012-8D2C-5EA5034FD289}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{221B8C93-831C-4012-8D2C-5EA5034FD289}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{221B8C93-831C-4012-8D2C-5EA5034FD289}.Release|Any CPU.Build.0 = Release|Any CPU
+		{221B8C93-831C-4012-8D2C-5EA5034FD289}.Release|Itanium.ActiveCfg = Release|Any CPU
+		{221B8C93-831C-4012-8D2C-5EA5034FD289}.Release|x64.ActiveCfg = Release|Any CPU
+		{221B8C93-831C-4012-8D2C-5EA5034FD289}.Release|x86.ActiveCfg = Release|Any CPU
+		{221B8C93-831C-4012-8D2C-5EA5034FD289}.Release|x86.Build.0 = Release|Any CPU
+		{8ADBB19A-5B94-4869-9F28-5CDA64379D19}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8ADBB19A-5B94-4869-9F28-5CDA64379D19}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8ADBB19A-5B94-4869-9F28-5CDA64379D19}.Debug|Itanium.ActiveCfg = Debug|Any CPU
+		{8ADBB19A-5B94-4869-9F28-5CDA64379D19}.Debug|Itanium.Build.0 = Debug|Any CPU
+		{8ADBB19A-5B94-4869-9F28-5CDA64379D19}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{8ADBB19A-5B94-4869-9F28-5CDA64379D19}.Debug|x64.Build.0 = Debug|Any CPU
+		{8ADBB19A-5B94-4869-9F28-5CDA64379D19}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{8ADBB19A-5B94-4869-9F28-5CDA64379D19}.Debug|x86.Build.0 = Debug|Any CPU
+		{8ADBB19A-5B94-4869-9F28-5CDA64379D19}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8ADBB19A-5B94-4869-9F28-5CDA64379D19}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8ADBB19A-5B94-4869-9F28-5CDA64379D19}.Release|Itanium.ActiveCfg = Release|Any CPU
+		{8ADBB19A-5B94-4869-9F28-5CDA64379D19}.Release|Itanium.Build.0 = Release|Any CPU
+		{8ADBB19A-5B94-4869-9F28-5CDA64379D19}.Release|x64.ActiveCfg = Release|Any CPU
+		{8ADBB19A-5B94-4869-9F28-5CDA64379D19}.Release|x64.Build.0 = Release|Any CPU
+		{8ADBB19A-5B94-4869-9F28-5CDA64379D19}.Release|x86.ActiveCfg = Release|Any CPU
+		{8ADBB19A-5B94-4869-9F28-5CDA64379D19}.Release|x86.Build.0 = Release|Any CPU
+		{2CAE517D-69F1-4228-837A-5F14EB3557C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2CAE517D-69F1-4228-837A-5F14EB3557C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2CAE517D-69F1-4228-837A-5F14EB3557C3}.Debug|Itanium.ActiveCfg = Debug|Any CPU
+		{2CAE517D-69F1-4228-837A-5F14EB3557C3}.Debug|Itanium.Build.0 = Debug|Any CPU
+		{2CAE517D-69F1-4228-837A-5F14EB3557C3}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{2CAE517D-69F1-4228-837A-5F14EB3557C3}.Debug|x64.Build.0 = Debug|Any CPU
+		{2CAE517D-69F1-4228-837A-5F14EB3557C3}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{2CAE517D-69F1-4228-837A-5F14EB3557C3}.Debug|x86.Build.0 = Debug|Any CPU
+		{2CAE517D-69F1-4228-837A-5F14EB3557C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2CAE517D-69F1-4228-837A-5F14EB3557C3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2CAE517D-69F1-4228-837A-5F14EB3557C3}.Release|Itanium.ActiveCfg = Release|Any CPU
+		{2CAE517D-69F1-4228-837A-5F14EB3557C3}.Release|Itanium.Build.0 = Release|Any CPU
+		{2CAE517D-69F1-4228-837A-5F14EB3557C3}.Release|x64.ActiveCfg = Release|Any CPU
+		{2CAE517D-69F1-4228-837A-5F14EB3557C3}.Release|x64.Build.0 = Release|Any CPU
+		{2CAE517D-69F1-4228-837A-5F14EB3557C3}.Release|x86.ActiveCfg = Release|Any CPU
+		{2CAE517D-69F1-4228-837A-5F14EB3557C3}.Release|x86.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
