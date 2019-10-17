@@ -1,0 +1,60 @@
+C:\Users\Richard\Desktop\RichieCLB\bin\Release\NAudio.dll
+C:\Users\Richard\Desktop\RichieCLB\bin\Release\PixelCLB.exe.config
+C:\Users\Richard\Desktop\RichieCLB\bin\Release\PixelCLB.exe
+C:\Users\Richard\Desktop\RichieCLB\bin\Release\PixelCLB.pdb
+C:\Users\Richard\Desktop\RichieCLB\bin\Release\ftplib.dll
+C:\Users\Richard\Desktop\RichieCLB\bin\Release\ftplib.pdb
+C:\Users\Richard\Desktop\RichieCLB\obj\Release\PixelCLB.csprojResolveAssemblyReference.cache
+C:\Users\Richard\Desktop\RichieCLB\obj\Release\PixelCLB.Properties.Resources.resources
+C:\Users\Richard\Desktop\RichieCLB\obj\Release\PixelCLB.CrashOptions.resources
+C:\Users\Richard\Desktop\RichieCLB\obj\Release\PixelCLB.FMRoomChange.resources
+C:\Users\Richard\Desktop\RichieCLB\obj\Release\PixelCLB.AllProfiles.resources
+C:\Users\Richard\Desktop\RichieCLB\obj\Release\PixelCLB.AutoBuff.resources
+C:\Users\Richard\Desktop\RichieCLB\obj\Release\PixelCLB.AutoChat.resources
+C:\Users\Richard\Desktop\RichieCLB\obj\Release\PixelCLB.CharacterInfo.resources
+C:\Users\Richard\Desktop\RichieCLB\obj\Release\PixelCLB.FMExportList.resources
+C:\Users\Richard\Desktop\RichieCLB\obj\Release\PixelCLB.MiniMap.resources
+C:\Users\Richard\Desktop\RichieCLB\obj\Release\PixelCLB.EndedBots.resources
+C:\Users\Richard\Desktop\RichieCLB\obj\Release\PixelCLB.ModeSelector.resources
+C:\Users\Richard\Desktop\RichieCLB\obj\Release\PixelCLB.ProxySettings.resources
+C:\Users\Richard\Desktop\RichieCLB\obj\Release\PixelCLB.ProfileOrganizer.resources
+C:\Users\Richard\Desktop\RichieCLB\obj\Release\PixelCLB.PixelCLB.resources
+C:\Users\Richard\Desktop\RichieCLB\obj\Release\PixelCLB.Whitelist.resources
+C:\Users\Richard\Desktop\RichieCLB\obj\Release\PixelCLB.Profiles.resources
+C:\Users\Richard\Desktop\RichieCLB\obj\Release\PixelCLB.Settings.resources
+C:\Users\Richard\Desktop\RichieCLB\obj\Release\PixelCLB.StoreAFKer.resources
+C:\Users\Richard\Desktop\RichieCLB\obj\Release\PixelCLB.DefaultForm.resources
+C:\Users\Richard\Desktop\RichieCLB\obj\Release\PixelCLB.csproj.GenerateResource.Cache
+C:\Users\Richard\Desktop\RichieCLB\obj\Release\PixelCLB.exe
+C:\Users\Richard\Desktop\RichieCLB\obj\Release\PixelCLB.pdb
+C:\Users\Richard\Desktop\Maple Stuff\RichieCLB\bin\Release\PixelCLB.exe.config
+C:\Users\Richard\Desktop\Maple Stuff\RichieCLB\bin\Release\PixelCLB.exe
+C:\Users\Richard\Desktop\Maple Stuff\RichieCLB\bin\Release\PixelCLB.pdb
+C:\Users\Richard\Desktop\Maple Stuff\RichieCLB\bin\Release\ftplib.dll
+C:\Users\Richard\Desktop\Maple Stuff\RichieCLB\bin\Release\NAudio.dll
+C:\Users\Richard\Desktop\Maple Stuff\RichieCLB\bin\Release\ftplib.pdb
+C:\Users\Richard\Desktop\Maple Stuff\RichieCLB\obj\Release\PixelCLB.csprojResolveAssemblyReference.cache
+C:\Users\Richard\Desktop\Maple Stuff\RichieCLB\obj\Release\PixelCLB.Properties.Resources.resources
+C:\Users\Richard\Desktop\Maple Stuff\RichieCLB\obj\Release\PixelCLB.CrashOptions.resources
+C:\Users\Richard\Desktop\Maple Stuff\RichieCLB\obj\Release\PixelCLB.FMRoomChange.resources
+C:\Users\Richard\Desktop\Maple Stuff\RichieCLB\obj\Release\PixelCLB.AllProfiles.resources
+C:\Users\Richard\Desktop\Maple Stuff\RichieCLB\obj\Release\PixelCLB.AutoBuff.resources
+C:\Users\Richard\Desktop\Maple Stuff\RichieCLB\obj\Release\PixelCLB.AutoChat.resources
+C:\Users\Richard\Desktop\Maple Stuff\RichieCLB\obj\Release\PixelCLB.CharacterInfo.resources
+C:\Users\Richard\Desktop\Maple Stuff\RichieCLB\obj\Release\PixelCLB.FMExportList.resources
+C:\Users\Richard\Desktop\Maple Stuff\RichieCLB\obj\Release\PixelCLB.MiniMap.resources
+C:\Users\Richard\Desktop\Maple Stuff\RichieCLB\obj\Release\PixelCLB.EndedBots.resources
+C:\Users\Richard\Desktop\Maple Stuff\RichieCLB\obj\Release\PixelCLB.ModeSelector.resources
+C:\Users\Richard\Desktop\Maple Stuff\RichieCLB\obj\Release\PixelCLB.ProxySettings.resources
+C:\Users\Richard\Desktop\Maple Stuff\RichieCLB\obj\Release\PixelCLB.ProfileOrganizer.resources
+C:\Users\Richard\Desktop\Maple Stuff\RichieCLB\obj\Release\PixelCLB.PixelCLB.resources
+C:\Users\Richard\Desktop\Maple Stuff\RichieCLB\obj\Release\PixelCLB.Whitelist.resources
+C:\Users\Richard\Desktop\Maple Stuff\RichieCLB\obj\Release\PixelCLB.Profiles.resources
+C:\Users\Richard\Desktop\Maple Stuff\RichieCLB\obj\Release\PixelCLB.Settings.resources
+C:\Users\Richard\Desktop\Maple Stuff\RichieCLB\obj\Release\PixelCLB.StoreAFKer.resources
+C:\Users\Richard\Desktop\Maple Stuff\RichieCLB\obj\Release\PixelCLB.DefaultForm.resources
+C:\Users\Richard\Desktop\Maple Stuff\RichieCLB\obj\Release\PixelCLB.csproj.GenerateResource.Cache
+C:\Users\Richard\Desktop\Maple Stuff\RichieCLB\obj\Release\PixelCLB.exe
+C:\Users\Richard\Desktop\Maple Stuff\RichieCLB\obj\Release\PixelCLB.pdb
+C:\Users\Richard\Desktop\Maple Stuff\RichieCLB\bin\Release\MaplePacketLib.dll
+C:\Users\Richard\Desktop\Maple Stuff\RichieCLB\bin\Release\MaplePacketLib.pdb

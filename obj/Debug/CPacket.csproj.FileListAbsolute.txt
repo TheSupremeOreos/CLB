@@ -1,0 +1,9 @@
+C:\Users\Goon\Documents\Visual Studio 2010\Projects\Raz\CPacket\obj\Debug\CPacket.csprojResolveAssemblyReference.cache
+C:\Users\Goon\Documents\Visual Studio 2010\Projects\Raz\CPacket\bin\Debug\CPacket.dll
+C:\Users\Goon\Documents\Visual Studio 2010\Projects\Raz\CPacket\bin\Debug\CPacket.pdb
+C:\Users\Goon\Documents\Visual Studio 2010\Projects\Raz\CPacket\obj\Debug\CPacket.dll
+C:\Users\Goon\Documents\Visual Studio 2010\Projects\Raz\CPacket\obj\Debug\CPacket.pdb
+C:\Users\Richard\Desktop\CLB\CPacket\CPacket\bin\Debug\CPacket.pdb
+C:\Users\Richard\Desktop\CLB\CPacket\CPacket\obj\Debug\CPacket.pdb
+C:\Users\Richard\Desktop\CLB\CPacket\CPacket\bin\Debug\CPacket.exe
+C:\Users\Richard\Desktop\CLB\CPacket\CPacket\obj\Debug\CPacket.exe

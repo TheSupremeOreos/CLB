@@ -1,0 +1,36 @@
+C:\Users\Richard\Desktop\CLB\CPacket\CPacket\bin\Debug\RichieCLB.exe
+C:\Users\Richard\Desktop\CLB\CPacket\CPacket\bin\Debug\RichieCLB.pdb
+C:\Users\Richard\Desktop\CLB\CPacket\CPacket\obj\Debug\RichieCLB.Profiles.resources
+C:\Users\Richard\Desktop\CLB\CPacket\CPacket\obj\Debug\RichieCLB.RichieCLB.resources
+C:\Users\Richard\Desktop\CLB\CPacket\CPacket\obj\Debug\RichieCLB.csproj.GenerateResource.Cache
+C:\Users\Richard\Desktop\CLB\CPacket\CPacket\obj\Debug\RichieCLB.exe
+C:\Users\Richard\Desktop\CLB\CPacket\CPacket\obj\Debug\RichieCLB.pdb
+C:\Users\Richard\Desktop\CLB\CPacket\CPacket\obj\Debug\RichieCLB.csprojResolveAssemblyReference.cache
+C:\Users\Richard\Desktop\RichieCLB\obj\Debug\RichieCLB.exe
+C:\Users\Richard\Desktop\RichieCLB\obj\Debug\RichieCLB.pdb
+C:\Users\Richard\Desktop\RichieCLB\bin\Debug\RichieCLB.exe
+C:\Users\Richard\Desktop\RichieCLB\bin\Debug\RichieCLB.pdb
+C:\Users\Richard\Desktop\RichieCLB\obj\Debug\RichieCLB.Profiles.resources
+C:\Users\Richard\Desktop\RichieCLB\obj\Debug\RichieCLB.RichieCLB.resources
+C:\Users\Richard\Desktop\RichieCLB\obj\Debug\RichieCLB.csproj.GenerateResource.Cache
+C:\Users\Richard\Desktop\RichieCLB Multi\bin\Debug\RichieCLB.exe.config
+C:\Users\Richard\Desktop\RichieCLB Multi\bin\Debug\RichieCLB.exe
+C:\Users\Richard\Desktop\RichieCLB Multi\bin\Debug\RichieCLB.pdb
+C:\Users\Richard\Desktop\RichieCLB Multi\bin\Debug\NAudio.dll
+C:\Users\Richard\Desktop\RichieCLB Multi\obj\Debug\RichieCLB.Properties.Resources.resources
+C:\Users\Richard\Desktop\RichieCLB Multi\obj\Debug\RichieCLB.MultiCLB.resources
+C:\Users\Richard\Desktop\RichieCLB Multi\obj\Debug\RichieCLB.RichieCLB.resources
+C:\Users\Richard\Desktop\RichieCLB Multi\obj\Debug\RichieCLB.Whitelist.resources
+C:\Users\Richard\Desktop\RichieCLB Multi\obj\Debug\RichieCLB.Profiles.resources
+C:\Users\Richard\Desktop\RichieCLB Multi\obj\Debug\RichieCLB.csproj.GenerateResource.Cache
+C:\Users\Richard\Desktop\RichieCLB Multi\obj\Debug\RichieCLB.exe
+C:\Users\Richard\Desktop\RichieCLB Multi\obj\Debug\RichieCLB.pdb
+C:\Users\Richard\Desktop\RichieCLB\bin\Debug\RichieCLB.exe.config
+C:\Users\Richard\Desktop\RichieCLB\obj\Debug\RichieCLB.csprojResolveAssemblyReference.cache
+C:\Users\Richard\Desktop\RichieCLB\obj\Debug\RichieCLB.Properties.Resources.resources
+C:\Users\Richard\Desktop\RichieCLB\obj\Debug\RichieCLB.CharacterInfo.resources
+C:\Users\Richard\Desktop\RichieCLB\obj\Debug\RichieCLB.FMExportList.resources
+C:\Users\Richard\Desktop\RichieCLB\obj\Debug\RichieCLB.MiniMap.resources
+C:\Users\Richard\Desktop\RichieCLB\obj\Debug\RichieCLB.EndedBots.resources
+C:\Users\Richard\Desktop\RichieCLB\obj\Debug\RichieCLB.ProxySettings.resources
+C:\Users\Richard\Desktop\RichieCLB\obj\Debug\RichieCLB.Whitelist.resources

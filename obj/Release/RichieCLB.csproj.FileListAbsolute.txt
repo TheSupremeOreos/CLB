@@ -1,0 +1,38 @@
+C:\Users\Richard\Desktop\RichieCLB Multi\bin\Release\RichieCLB.exe.config
+C:\Users\Richard\Desktop\RichieCLB Multi\bin\Release\RichieCLB.exe
+C:\Users\Richard\Desktop\RichieCLB Multi\bin\Release\RichieCLB.pdb
+C:\Users\Richard\Desktop\RichieCLB Multi\obj\Release\RichieCLB.Properties.Resources.resources
+C:\Users\Richard\Desktop\RichieCLB Multi\obj\Release\RichieCLB.RichieCLB.resources
+C:\Users\Richard\Desktop\RichieCLB Multi\obj\Release\RichieCLB.Whitelist.resources
+C:\Users\Richard\Desktop\RichieCLB Multi\obj\Release\RichieCLB.Profiles.resources
+C:\Users\Richard\Desktop\RichieCLB Multi\obj\Release\RichieCLB.csproj.GenerateResource.Cache
+C:\Users\Richard\Desktop\RichieCLB Multi\obj\Release\RichieCLB.exe
+C:\Users\Richard\Desktop\RichieCLB Multi\obj\Release\RichieCLB.pdb
+C:\Users\Richard\Desktop\RichieCLB Multi\obj\Release\RichieCLB.EndedBots.resources
+C:\Users\Richard\Desktop\RichieCLB\bin\Release\NAudio.dll
+C:\Users\Richard\Desktop\RichieCLB\bin\Release\RichieCLB.exe.config
+C:\Users\Richard\Desktop\RichieCLB\bin\Release\RichieCLB.exe
+C:\Users\Richard\Desktop\RichieCLB\bin\Release\RichieCLB.pdb
+C:\Users\Richard\Desktop\RichieCLB\obj\Release\RichieCLB.Properties.Resources.resources
+C:\Users\Richard\Desktop\RichieCLB\obj\Release\RichieCLB.FMRoomChange.resources
+C:\Users\Richard\Desktop\RichieCLB\obj\Release\RichieCLB.AllProfiles.resources
+C:\Users\Richard\Desktop\RichieCLB\obj\Release\RichieCLB.AutoBuff.resources
+C:\Users\Richard\Desktop\RichieCLB\obj\Release\RichieCLB.AutoChat.resources
+C:\Users\Richard\Desktop\RichieCLB\obj\Release\RichieCLB.CharacterInfo.resources
+C:\Users\Richard\Desktop\RichieCLB\obj\Release\RichieCLB.ProfileEdits.resources
+C:\Users\Richard\Desktop\RichieCLB\obj\Release\RichieCLB.FMExportList.resources
+C:\Users\Richard\Desktop\RichieCLB\obj\Release\RichieCLB.MiniMap.resources
+C:\Users\Richard\Desktop\RichieCLB\obj\Release\RichieCLB.EndedBots.resources
+C:\Users\Richard\Desktop\RichieCLB\obj\Release\RichieCLB.ModeSelector.resources
+C:\Users\Richard\Desktop\RichieCLB\obj\Release\RichieCLB.ProxySettings.resources
+C:\Users\Richard\Desktop\RichieCLB\obj\Release\RichieCLB.ProfileOrganizer.resources
+C:\Users\Richard\Desktop\RichieCLB\obj\Release\RichieCLB.RichieCLB.resources
+C:\Users\Richard\Desktop\RichieCLB\obj\Release\RichieCLB.Whitelist.resources
+C:\Users\Richard\Desktop\RichieCLB\obj\Release\RichieCLB.Profiles.resources
+C:\Users\Richard\Desktop\RichieCLB\obj\Release\RichieCLB.Settings.resources
+C:\Users\Richard\Desktop\RichieCLB\obj\Release\RichieCLB.StoreAFKer.resources
+C:\Users\Richard\Desktop\RichieCLB\obj\Release\RichieCLB.DefaultForm.resources
+C:\Users\Richard\Desktop\RichieCLB\obj\Release\RichieCLB.csproj.GenerateResource.Cache
+C:\Users\Richard\Desktop\RichieCLB\obj\Release\RichieCLB.exe
+C:\Users\Richard\Desktop\RichieCLB\obj\Release\RichieCLB.pdb
+C:\Users\Richard\Desktop\RichieCLB\obj\Release\RichieCLB.CrashOptions.resources
