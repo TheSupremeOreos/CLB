@@ -1,0 +1,4 @@
+C:\Users\Richard\Desktop\Maple Stuff\RichieCLB\FTP\bin\Debug\ftplib.dll
+C:\Users\Richard\Desktop\Maple Stuff\RichieCLB\FTP\bin\Debug\ftplib.pdb
+C:\Users\Richard\Desktop\Maple Stuff\RichieCLB\FTP\obj\Debug\ftplib.dll
+C:\Users\Richard\Desktop\Maple Stuff\RichieCLB\FTP\obj\Debug\ftplib.pdb

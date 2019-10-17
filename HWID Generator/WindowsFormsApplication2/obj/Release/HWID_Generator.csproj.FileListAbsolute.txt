@@ -1,0 +1,12 @@
+C:\Users\Richard\Desktop\CLB\HWID Generator\WindowsFormsApplication2\bin\Release\HWID Generator.exe.config
+C:\Users\Richard\Desktop\CLB\HWID Generator\WindowsFormsApplication2\bin\Release\HWID Generator.exe.manifest
+C:\Users\Richard\Desktop\CLB\HWID Generator\WindowsFormsApplication2\bin\Release\HWID Generator.application
+C:\Users\Richard\Desktop\CLB\HWID Generator\WindowsFormsApplication2\bin\Release\HWID Generator.exe
+C:\Users\Richard\Desktop\CLB\HWID Generator\WindowsFormsApplication2\bin\Release\HWID Generator.pdb
+C:\Users\Richard\Desktop\CLB\HWID Generator\WindowsFormsApplication2\obj\Release\HWID_Generator.Form1.resources
+C:\Users\Richard\Desktop\CLB\HWID Generator\WindowsFormsApplication2\obj\Release\HWID_Generator.Properties.Resources.resources
+C:\Users\Richard\Desktop\CLB\HWID Generator\WindowsFormsApplication2\obj\Release\HWID_Generator.csproj.GenerateResource.Cache
+C:\Users\Richard\Desktop\CLB\HWID Generator\WindowsFormsApplication2\obj\Release\HWID Generator.exe.manifest
+C:\Users\Richard\Desktop\CLB\HWID Generator\WindowsFormsApplication2\obj\Release\HWID Generator.application
+C:\Users\Richard\Desktop\CLB\HWID Generator\WindowsFormsApplication2\obj\Release\HWID Generator.exe
+C:\Users\Richard\Desktop\CLB\HWID Generator\WindowsFormsApplication2\obj\Release\HWID Generator.pdb

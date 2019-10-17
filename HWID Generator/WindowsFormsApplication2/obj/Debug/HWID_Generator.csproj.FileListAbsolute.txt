@@ -1,0 +1,20 @@
+C:\Users\Richard\Documents\Visual Studio 2012\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\HWID Generator.exe.config
+C:\Users\Richard\Documents\Visual Studio 2012\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\HWID Generator.exe
+C:\Users\Richard\Documents\Visual Studio 2012\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\HWID Generator.pdb
+C:\Users\Richard\Documents\Visual Studio 2012\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\HWID_Generator.Form1.resources
+C:\Users\Richard\Documents\Visual Studio 2012\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\HWID_Generator.Properties.Resources.resources
+C:\Users\Richard\Documents\Visual Studio 2012\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\HWID_Generator.csproj.GenerateResource.Cache
+C:\Users\Richard\Documents\Visual Studio 2012\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\HWID Generator.exe
+C:\Users\Richard\Documents\Visual Studio 2012\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\HWID Generator.pdb
+C:\Users\Richard\Desktop\CLB\HWID Generator\WindowsFormsApplication2\bin\Debug\HWID Generator.exe.config
+C:\Users\Richard\Desktop\CLB\HWID Generator\WindowsFormsApplication2\obj\Debug\HWID Generator.exe
+C:\Users\Richard\Desktop\CLB\HWID Generator\WindowsFormsApplication2\obj\Debug\HWID Generator.pdb
+C:\Users\Richard\Desktop\CLB\HWID Generator\WindowsFormsApplication2\obj\Debug\HWID_Generator.Form1.resources
+C:\Users\Richard\Desktop\CLB\HWID Generator\WindowsFormsApplication2\obj\Debug\HWID_Generator.Properties.Resources.resources
+C:\Users\Richard\Desktop\CLB\HWID Generator\WindowsFormsApplication2\obj\Debug\HWID_Generator.csproj.GenerateResource.Cache
+C:\Users\Richard\Desktop\CLB\HWID Generator\WindowsFormsApplication2\bin\Debug\HWID Generator.exe.manifest
+C:\Users\Richard\Desktop\CLB\HWID Generator\WindowsFormsApplication2\bin\Debug\HWID Generator.application
+C:\Users\Richard\Desktop\CLB\HWID Generator\WindowsFormsApplication2\bin\Debug\HWID Generator.exe
+C:\Users\Richard\Desktop\CLB\HWID Generator\WindowsFormsApplication2\bin\Debug\HWID Generator.pdb
+C:\Users\Richard\Desktop\CLB\HWID Generator\WindowsFormsApplication2\obj\Debug\HWID Generator.exe.manifest
+C:\Users\Richard\Desktop\CLB\HWID Generator\WindowsFormsApplication2\obj\Debug\HWID Generator.application

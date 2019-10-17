@@ -1,0 +1,21 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 2012 for Windows Desktop
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HWID_Generator", "WindowsFormsApplication2\HWID_Generator.csproj", "{96F00A9A-9DC0-4B40-BAEE-34DB8648C5C5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{96F00A9A-9DC0-4B40-BAEE-34DB8648C5C5}.Debug|Any CPU.ActiveCfg = Release|Any CPU
+		{96F00A9A-9DC0-4B40-BAEE-34DB8648C5C5}.Debug|Any CPU.Build.0 = Release|Any CPU
+		{96F00A9A-9DC0-4B40-BAEE-34DB8648C5C5}.Debug|Any CPU.Deploy.0 = Release|Any CPU
+		{96F00A9A-9DC0-4B40-BAEE-34DB8648C5C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{96F00A9A-9DC0-4B40-BAEE-34DB8648C5C5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

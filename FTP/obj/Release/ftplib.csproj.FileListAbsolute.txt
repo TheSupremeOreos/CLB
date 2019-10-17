@@ -1,0 +1,8 @@
+C:\Users\Richard\Desktop\RichieCLB\FTP\bin\Release\ftplib.dll
+C:\Users\Richard\Desktop\RichieCLB\FTP\bin\Release\ftplib.pdb
+C:\Users\Richard\Desktop\RichieCLB\FTP\obj\Release\ftplib.dll
+C:\Users\Richard\Desktop\RichieCLB\FTP\obj\Release\ftplib.pdb
+C:\Users\Richard\Desktop\Maple Stuff\RichieCLB\FTP\bin\Release\ftplib.dll
+C:\Users\Richard\Desktop\Maple Stuff\RichieCLB\FTP\bin\Release\ftplib.pdb
+C:\Users\Richard\Desktop\Maple Stuff\RichieCLB\FTP\obj\Release\ftplib.dll
+C:\Users\Richard\Desktop\Maple Stuff\RichieCLB\FTP\obj\Release\ftplib.pdb
